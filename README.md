@@ -1,4 +1,4 @@
-"# RN-Tic-Toc-Toe" 
+# RN-Tic-Toc-Toe
 
 Run npm install 
 
